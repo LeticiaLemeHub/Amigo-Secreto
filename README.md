@@ -24,6 +24,8 @@ Este é um simples aplicativo web para realizar sorteios de amigo secreto entre 
 
 ## 🎬 Demonstração
 
+<img src="https://cdn.discordapp.com/attachments/1322450371423244400/1337084127534387231/gif-amigo-secreto.gif?ex=67a62821&is=67a4d6a1&hm=9a402ba494059c9cdfefa9d3733a2775d3970032a2bd6f1b31c1789a5109b93f&" width="600">
+
 
 ## 📂 Estrutura de Arquivos
 - `index.html`: Página principal do aplicativo.
