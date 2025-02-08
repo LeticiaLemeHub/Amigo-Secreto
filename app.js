@@ -44,4 +44,13 @@ function sortearAmigo() {
     console.log(`Amigo sorteado: ${amigoSorteado}`);
     console.log("Lista de sorteados:", sorteados);
     document.getElementById("resultado").innerText = `Amigo sorteado: ${amigoSorteado}`;
+    
+    setTimeout(() => {
+        confetti({
+            particleCount: 100,
+            spread: 70,
+            origin: { y: 0.6 }
+        });
+    }, 300);
 }
+
